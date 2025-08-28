@@ -4,14 +4,19 @@
 
 ### For Matt
 
-* Site features
-* Complete DigitalOcean ownership handoff
-  * Follow-up with DigitalOcean support ticket
-  * Call MaryBeth as needed
+* ~~Complete DigitalOcean ownership handoff~~
+  * ~~Follow-up with DigitalOcean support ticket~~
+  * ~~Call MaryBeth as needed~~
 * Docker-ize source code
   * Package frontend/backend images
   * Upload to Git repository
   * Include script and/or instructions
+
+### For MaryBeth
+
+* Update billing
+  * DigitalOcean
+  * Namecheap
 
 ### For Emma
 
